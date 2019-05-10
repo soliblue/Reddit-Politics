@@ -24,17 +24,17 @@ The results can be found in the folder Results or on google drive (https://drive
      + stores information about the relative diff count of all words posted on the studied subreddits.
      
 - Sentiment 
- * **sentiment_The_Donald.pickle.gz**: contains sentiment score for all comments posted on The_Donald
- * **sentiment_politics.pickle.gz**: contains sentiment score for all comments posted on politics
- * ...
- * **sentiment_altright.pickle.gz**: contains sentiment score for all comments posted on politics
- 
+  * **sentiment_The_Donald.pickle.gz**: contains sentiment score for all comments posted on The_Donald
+  * **sentiment_politics.pickle.gz**: contains sentiment score for all comments posted on politics
+  * ...
+  * **sentiment_altright.pickle.gz**: contains sentiment score for all comments posted on politics
+
  
 - WordEmbeddings
- * We have the word embeddings for all studied subreddits. Contact me @ ahmed.soliman@rwth-aachen.de in order to get them. The files are too big to be uploaded anywhere.
+  * We have the word embeddings for all studied subreddits. Contact me @ ahmed.soliman@rwth-aachen.de in order to get them. The files are too big to be uploaded anywhere.
  
 - Subreddit Embeddings
- * We have subreddit embeddings calcualted as described in this article: https://fivethirtyeight.com/features/dissecting-trumps-most-rabid-online-following/ . Contact me @ ahmed.soliman@rwth-aachen.de in order to get them. The files are too big to be uploaded anywhere.
+  * We have subreddit embeddings calcualted as described in this article: https://fivethirtyeight.com/features/dissecting-trumps-most-rabid-online-following/ . Contact me @ ahmed.soliman@rwth-aachen.de in order to get them. The files are too big to be uploaded anywhere.
 
 **Remarks** 
 - We are still cleaning the code and results to make it easier to understand and reuse. 
