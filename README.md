@@ -14,6 +14,7 @@ This repository contains the code and results of our paper "A Characterization o
 * matplotlib
 * gzip
 * pickle
+* vaderSentiment
 
 ### Results
 
