@@ -3,8 +3,8 @@ This repository contains the code and results of our paper "A Characterization o
 
 1. In order to run the code you need to download the Reddit data first. The data can be downloaded from: https://files.pushshift.io/reddit/
 2. The path for the downloaded data should then be updated in all notebooks. 
-3. The result files were compressed using gzip in the terminal.
-4. Before running the notebook in 00_General you need to run all notebooks in 01_Content_Analysis/PreProcessing
+3. Most of the results are compressed using gzip and should be decompressed first.
+4. The order of the folders matters. Folder 01 needs to run before 02 and 03 etc. 
 
 ### Required Libraries
 * numpy
