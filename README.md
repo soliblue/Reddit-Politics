@@ -1,10 +1,13 @@
 ### A Characterization of Political Communities on Reddit
 This repository contains the code and results of our paper "A Characterization of Political Communities on Reddit".
 
+#### Folders
+- **Plots**: The plots folder contains the plots and tables generated.
+- **Results**: The Results folder contains the results of the calculations.
 
-#### Results
-The results can be found in the folder Results or on google drive (https://drive.google.com/drive/folders/1VetvLETa-9_jao9ihAtZjwvc4ofI8xrO?usp=sharing). 
+##### Results
 **Files > 100MB are only available on google drive.**
+The results can be found in the folder Results or on google drive (https://drive.google.com/drive/folders/1VetvLETa-9_jao9ihAtZjwvc4ofI8xrO?usp=sharing). 
 
 - Links
   * **comment_links.pickle.gz** 
