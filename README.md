@@ -15,6 +15,7 @@ This repository contains the code and results of our paper "A Characterization o
 * gzip
 * pickle
 * vaderSentiment
+* sklearn
 
 ### Results
 
