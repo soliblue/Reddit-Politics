@@ -3,7 +3,7 @@ This repository contains the code and results of our paper "A Characterization o
 
 1. In order to run the code you need to download the Reddit data first. The data can be downloaded from: https://files.pushshift.io/reddit/
 2. The path for the downloaded data should then be updated in all notebooks. 
-3. The files are folders need to run in the correct order. 01 before 02 etc. 
+3. The files and folders need to run in the correct order: 01 before 02 etc. 
 
 ### Required Libraries
 * numpy
@@ -32,7 +32,7 @@ The results are stored in two folders.
     * **comment_full_links.pickle.gz** 
       + stores information about the frequencies of each link posted on studied subreddits.  
       + **Example**: comment_full_links['politics'] returns all links posted on politics alongside their frequency. 
-      + This is a Counter object so one can type comment_links['politics'].most_common(100) to get the top 100 shared domains. 
+      + This is a Counter object so one can type comment_links['politics'].most_common(100) to get the top 100 shared links. 
   - Word Frequencies
     * **word_freq.pickle.gz** 
        + stores information about the relative count of all words posted on the studied subreddits.  
